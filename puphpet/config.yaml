@@ -228,8 +228,8 @@ php:
             - gd
             - intl
             - mbstring
-            - xml
             - simplexml
+            - xml
         pear: {  }
         pecl: {  }
     ini:
