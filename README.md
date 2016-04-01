@@ -5,7 +5,7 @@ This is a [PuPHPet](https://puphpet.com) Vagrant configuration setup for Drupal
 development" that works brilliantly!
 
 ## Includes
-* Drupal 8.0.5
+* Drush 8.0.5
 * PHP modules required by Drupal 7
     * dom
     * gd
