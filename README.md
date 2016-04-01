@@ -5,6 +5,9 @@ This is a [PuPHPet](https://puphpet.com) Vagrant configuration setup for Drupal
 development" that works brilliantly!
 
 ## Includes
+
+* Xdebug
+* Xhprof
 * Drush 8.0.5
 * PHP modules required by Drupal 7
     * dom
@@ -12,3 +15,8 @@ development" that works brilliantly!
     * mbstring
     * simplexml
     * xml
+
+## License 
+
+PuPHPet is licensed under the MIT license all third-party Puppet Modules are
+licensed under Apache License v2.0.
