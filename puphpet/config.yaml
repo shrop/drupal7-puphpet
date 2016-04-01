@@ -224,7 +224,12 @@ php:
     modules:
         php:
             - cli
+            - dom
+            - gd
             - intl
+            - mbstring
+            - xml
+            - simplexml
         pear: {  }
         pecl: {  }
     ini:
